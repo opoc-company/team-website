@@ -4,3 +4,4 @@ const isLogin = () => {
     return true
 }
 console.log('sd')
+alert('sdk')
